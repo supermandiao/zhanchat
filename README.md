@@ -51,7 +51,7 @@ Android 上的本地 AI 客户端。手机里内置一个 506 MB 小模型，断
 下载后点开安装，允许「安装未知来源应用」。安装后核对校验和：
 
 ```bash
-sha256sum -c 战神chat_2.8.39.apk.sha256
+sha256sum -c chat_2.8.39.apk.sha256
 ```
 
 ## 隐私
