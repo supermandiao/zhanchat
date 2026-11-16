@@ -1,5 +1,10 @@
 # 战神 chat
 
+![version](https://img.shields.io/github/v/release/supermandiao/zhanchat?display_name=tag)
+![downloads](https://img.shields.io/github/downloads/supermandiao/zhanchat/total)
+![license](https://img.shields.io/github/license/supermandiao/zhanchat)
+![android](https://img.shields.io/badge/Android-8.0%2B-3ddc84)
+
 Android 本地 AI 客户端，三个关键点：
 
 - **本地无审查**：APK 内置 506 MB 无审查小模型，纯 Java 推理，断网也能用，对话不出手机
