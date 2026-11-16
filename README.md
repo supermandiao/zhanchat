@@ -13,6 +13,20 @@ Android 本地 AI 客户端，三个关键点：
 
 接口兼容任意 OpenAI 格式（DeepSeek、硅基流动等），主模型 + 备用模型两套配置。本地小模型只在「纯本地」挡和你手动点「交给本地模型」时参与，Android 层只做推理和网络传输。
 
+## 界面
+
+![主页](docs/screenshots/01-home.jpg)
+
+![破甲设置](docs/screenshots/03-armor-settings.jpg)
+
+![关于](docs/screenshots/02-about.jpg)
+
+破甲轨迹（每一轮实际发的策略、判定结果、检索兜底过程）：
+
+![轨迹一](docs/screenshots/04-trace-1.jpg)
+![轨迹二](docs/screenshots/05-trace-2.jpg)
+
+
 ## 怎么用
 
 1. 首次打开，阅读并同意使用声明
